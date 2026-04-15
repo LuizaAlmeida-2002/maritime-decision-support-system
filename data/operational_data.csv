@@ -1,0 +1,15 @@
+vessel_type,weather,urgency,speed,operation_type,wave_height,visibility,cargo_weight,distance
+Tugboat,Good,Low,12,Maneuver,0.5,High,5,2
+Tugboat,Bad,High,20,Maneuver,2.5,Low,8,3
+Supply Boat,Good,High,30,Transport,1.0,High,20,15
+Supply Boat,Bad,High,35,Transport,3.0,Low,25,20
+Passenger Boat,Moderate,Low,40,Transport,1.5,Medium,50,30
+Passenger Boat,Bad,Medium,55,Transport,3.5,Low,60,35
+Tugboat,Moderate,Medium,18,Maneuver,1.2,Medium,6,4
+Supply Boat,Good,Medium,28,Transport,1.0,High,22,18
+Passenger Boat,Bad,High,60,Transport,4.0,Low,70,40
+Tugboat,Good,Low,15,Maneuver,0.6,High,5,3
+Supply Boat,Moderate,High,32,Transport,2.0,Medium,30,25
+Passenger Boat,Good,Medium,45,Transport,1.2,High,55,28
+
+
